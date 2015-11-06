@@ -1,4 +1,4 @@
-package core.java2.v1ch2;
+package core.java.v1ch2;
 
 import javax.swing.*;
 import java.awt.*;

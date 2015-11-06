@@ -1,4 +1,4 @@
-package core.java2.v1ch2;
+package core.java.v1ch2;
 
 public class Welcome {
     public static void main(String[] args)
@@ -8,7 +8,6 @@ public class Welcome {
         greeting[1] = "by Cay Horstmann";
         greeting[2] = "and Gary Cornell";
 
-        for (int i = 0; i < greeting.length; i++)
-            System.out.println(greeting[i]);
+        for (String aGreeting : greeting) System.out.println(aGreeting);
     }
 }
