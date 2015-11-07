@@ -1,10 +1,10 @@
 package com.java.tests;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * Created by temo on 11/5/15.
+ *
  */
 public class ArrayListTest {
     public static void main(String[] args) {
