@@ -3,9 +3,6 @@ package javaProgramming.techniques.blinov.chap1.varA;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * Created by temo on 10/26/15.
- */
 public class FirthQuestionMethod {
     public int sumOperation() {
         System.out.println("Please enter two numbers to sum and press <Enter> :");
