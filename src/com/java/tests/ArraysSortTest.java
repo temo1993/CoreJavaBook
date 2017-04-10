@@ -1,8 +1,5 @@
 package com.java.tests;
 
-import org.w3c.dom.css.Counter;
-
-import java.math.BigDecimal;
 import java.util.Arrays;
 
 /**
